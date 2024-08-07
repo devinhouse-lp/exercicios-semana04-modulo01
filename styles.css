@@ -1,0 +1,40 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(187, 187, 187);
+}
+
+body {
+    background-color: rgb(46, 46, 46);
+}
+
+.container {
+    display: block;
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+form * {
+    max-width: 300px;
+}
+
+fieldset {
+    border: none;
+}
+
+button {
+    border: none;
+    height: 30px;
+    width: 100px;
+    border-radius: 4px;
+    margin: 10px;
+    background-color: yellowgreen;
+    font-size: 16px;
+    color: black;
+}
+
+h1 {
+    padding: 10px;
+}
